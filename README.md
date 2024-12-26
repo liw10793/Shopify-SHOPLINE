@@ -24,7 +24,7 @@ Shopify成立于2006年，来自加拿大，是全球最受欢迎的独立站建
 
 ### 2. 支付方式：Shopify vs SHOPLINE
 
-SHOPLINE和Shopify都分别有自己的支付方式：两者都可以使用Fomepay的虚拟卡支付，[点击获取卡片](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)
+SHOPLINE和Shopify都分别有自己的支付方式：两者都可以使用WildCard的虚拟卡支付，[点击获取卡片](https://bit.ly/bewildcard)
 
 从PayPal收款来看，Shopify仅支持PayPal企业账号。但是SHOPLINE不仅支持PayPal企业账号，还支持PayPal个人账号，这对于新手跨境电商卖家来说十分友好。新手卖家无需注册公司就能使用全球主流的支付方式PayPal收款，立即开始跨境电商业务。
 
@@ -33,7 +33,7 @@ SHOPLINE和Shopify都分别有自己的支付方式：两者都可以使用Fomep
 
 Shopify的模板大部分都需要付费，价格在170–380美元不等，如果使用定制，将产生更多的费用。
 
-支付方式可以使用Fomepay的虚拟卡，支持微信支付直接付款，[点击获取](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)
+支付方式可以使用WildCard的虚拟卡，支持微信支付直接付款，[点击获取](https://bit.ly/bewildcard)
 
 SHOPLINE为独立站中国卖家提供多款精美、自适应、可定制的免费主题模板。它们由领先的设计师按照最高标准构建，并针对搜索引擎进行了优化。因此，选择SHOPLINE，能为您的跨境业务节省一笔启动资金，让您的资金用在产品开发、营销等更关键的地方。
 
